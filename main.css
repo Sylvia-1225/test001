@@ -1,3 +1,18 @@
-body {
-    color: #f00;
+header {
+    height: 250px;
+    background-image: url(https://images.pexels.com/photos/2071873/pexels-photo-2071873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: top 40% center;
+}
+
+header h1 {
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+header h2 {
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
 }
